@@ -12,6 +12,7 @@
   "dependencies": {
   	"vow": "0.4.12"
   },
+  "main" : "lib",
   "author": "Max Belyanin <maxbelyanin@gmail.com>",
   "license": "ISC"
 }
