@@ -9,8 +9,8 @@ The parsing result is the object with entity data (Legal entity or Sole entity).
 {
     "type": "LE",
     "name": {
-        "full": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ "РОГА И КОПЫТА"",
-        "short": "ООО "БИЗНЕС-ДОК""
+        "full": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РОГА И КОПЫТА\"",
+        "short": "ООО \"БИЗНЕС-ДОК\""
     },
     "addr": {
         "postcode": "300000",
