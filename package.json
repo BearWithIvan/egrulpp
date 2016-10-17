@@ -12,7 +12,7 @@
   "dependencies": {
   	"vow": "0.4.12"
   },
-  "main" : "lib",
+  "main" : "lib/egrulpp",
   "author": "Max Belyanin <maxbelyanin@gmail.com>",
   "license": "ISC"
 }
